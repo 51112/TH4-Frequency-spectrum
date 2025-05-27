@@ -145,13 +145,6 @@ Giờ tiêu thụ điện cao nhất trung bình: 19:00
 - [ ] So sánh các khu vực địa lý
 - [ ] Tích hợp với IoT và smart grid
 
-## 👨‍💻 Tác giả
-
-**Nguyễn Đức Anh**
-- MSSV: 2151264640
-- Email: [your-email@example.com]
-- GitHub: [your-github-profile]
-
 ## 📝 License
 
 Dự án này được phát triển cho mục đích học tập và nghiên cứu.
